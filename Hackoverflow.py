@@ -252,7 +252,7 @@ from keras.layers import Dense # build our layers library
 # In[ ]:
 
 
-pip install mljar-mercury
+
 
 
 # In[ ]:
