@@ -235,7 +235,7 @@ model(SVM_model,x_train_res,y_train_res,x_test,y_test)
 # In[74]:
 
 
-pip install tensorflow
+
 
 
 # In[77]:
